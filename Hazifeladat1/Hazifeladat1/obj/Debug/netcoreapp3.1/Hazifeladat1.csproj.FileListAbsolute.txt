@@ -1,0 +1,13 @@
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.exe
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.deps.json
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.runtimeconfig.json
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.runtimeconfig.dev.json
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.dll
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\bin\Debug\netcoreapp3.1\Hazifeladat1.pdb
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.csprojAssemblyReference.cache
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.AssemblyInfoInputs.cache
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.AssemblyInfo.cs
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.csproj.CoreCompileInputs.cache
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.dll
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.pdb
+C:\Users\Indy\source\repos\Hazifeladat1\Hazifeladat1\obj\Debug\netcoreapp3.1\Hazifeladat1.genruntimeconfig.cache
