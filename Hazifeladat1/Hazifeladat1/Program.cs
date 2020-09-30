@@ -17,6 +17,7 @@ namespace Hazifeladat1
         {
             int total = 0;
             int sum = 0;
+            int avg = 0;
             Plotter plotter;
             char keyInfo = 'y';
 
@@ -47,6 +48,16 @@ namespace Hazifeladat1
 
             Console.WriteLine("Total price: {0}", total);
             Console.WriteLine("Number of sold plotters: {0}", sum);
+            if (sum > 0)
+            {
+                avg = total / sum;
+                Console.WriteLine("Average of sold plotters: {0}", avg);
+            }
+            else
+            {
+                Console.WriteLine("Average of sold plotters: 0");
+            }
+
 
         }
 
